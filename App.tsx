@@ -35,7 +35,7 @@ const App: React.FC = () => {
               <div className="absolute inset-0 bg-blue-500 blur-xl opacity-20 group-hover:opacity-40 transition-opacity rounded-full"></div>
               <div className="w-40 h-40 rounded-full border-4 border-white shadow-[0_0_30px_rgba(255,255,255,0.2)] overflow-hidden bg-slate-800 relative z-10">
                 <img
-                  src={MISSION_DATA.photoUrl}
+                  src= "/theo1.jpg"
                   alt={`Foto do agente ${MISSION_DATA.targetName}`}
                   className="w-full h-full object-cover object-top hover:scale-110 transition-transform duration-500"
                 />
