@@ -8,7 +8,7 @@ export const MISSION_DATA: MissionDetails = {
   location: "QG Charm Kids Buffet",
   address: "Av. Guarapiranga, 3550",
   hostPhone: "5511984414107",
-  photoUrl: "https://drive.google.com/uc?export=view&id=1hdYbaLXsZjCz1fd4nRE-l-_SD624iUpZ"
+  photoUrl: "/theo.jpg"
 };
 
 export const THEME_COLORS = {
